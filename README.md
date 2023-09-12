@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil 😁
+## Olá, eu sou o Pedro Aires
 
  <div>
    <a href="https://github.com/pedroairees">
@@ -22,7 +22,6 @@
   <a href = "mailto:pedroengsof@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedroaiires/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- ![snake gif](https://github.com/pedroairees/pedroairees/blob/output/github-contribution-grid-snake.svg)
 
 
 </div>
